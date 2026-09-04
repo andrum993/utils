@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A toy language and binary format for describing SPI & I2C dumps, aimed at putting splash screens on SPI & I2C displays during vc4 boot on Raspberry Pis. This currently only supports non RP1 RPis, i.e. everything but the Pi 5.
+A toy language and binary format for describing SPI & I2C dumps, aimed at putting splash screens on SPI & I2C displays during vc4 boot on Raspberry Pis. This currently only supports non RP1 RPis, i.e. everything but the Pi 5 family.
 
 ## Usage
 
